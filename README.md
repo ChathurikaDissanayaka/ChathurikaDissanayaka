@@ -1,4 +1,4 @@
-###  Hi there 👋 I'm Chathurika Dissanayaka (💲🅰©♓❕)
+###  Hi there 👋 I'm Sachini Dissanayaka (💲🅰©♓❕)
 ###  I'm a Computer Engineering Undergraduate
 ###  I’m interested in web and mobile app development 📱💻👩‍💻
 ### <img src="/img/gmail.png" width=2% height=2%> sachichathudissanayaka@gmail.com 
