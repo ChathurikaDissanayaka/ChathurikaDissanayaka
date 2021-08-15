@@ -1,10 +1,10 @@
 ###  Hi there 👋 I'm Sachini Dissanayaka (💲🅰©♓❕)
 ###  I'm a Computer Engineering Undergraduate
 ###  I’m interested in web and mobile app development 📱💻👩‍💻
-### <img src="/img/gmail.png" width=2% height=2%> sachichathudissanayaka@gmail.com 
-### <img src="/img/linkedin-app.png" width=2% height=2%> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
-### <img src="/img/twitter-app.png" width=2% height=2%> [Twitter](https://twitter.com/Iam_S4ch1)
-### <img src="/img/codepen.png" width=2% height=2%> [CodePen](https://codepen.io/S4ch1)
+### <img src="/img/gmail.png" width=15px height=15px> sachichathudissanayaka@gmail.com 
+### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
+### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/Iam_S4ch1)
+### <img src="/img/codepen.png" width=15px height=15px> [CodePen](https://codepen.io/S4ch1)
 
 <!--
 **ChathurikaDissanayaka/ChathurikaDissanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
