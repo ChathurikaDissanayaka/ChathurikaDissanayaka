@@ -4,7 +4,7 @@
 ### <img src="/img/gmail.png" width=15px height=15px> sachichathudissanayaka@gmail.com 
 ### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
 ### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/Iam_S4ch1)
-### <img src="/img/HackerRank.png" width=15px height=15px> [HackerRank](https://www.hackerrank.com/SachiChathu)
+### <img src="/img/HackerRank.png" width=18px height=18px> [HackerRank](https://www.hackerrank.com/SachiChathu)
 ### <img src="/img/codepen.png" width=15px height=15px> [CodePen](https://codepen.io/S4ch1)
 
 
