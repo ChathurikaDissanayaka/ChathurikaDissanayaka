@@ -5,7 +5,7 @@
 ### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
 ### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/Iam_S4ch1)
 ### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
-### <img src="/img/codepen.png" width=15px height=15px> [CodePen](https://codepen.io/S4ch1)
+### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
 
 
 <!--
