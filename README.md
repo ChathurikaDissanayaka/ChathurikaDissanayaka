@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (💲🅰©♓❕)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka</h1>
 <h3 align="center">I'm a Computer Engineering Undergraduate from Sri Lanka.</h3>
 <h3 align="center">And I’m interested in web and mobile app development 📱💻👩‍💻</h3>
 
-<h2 align="center"><img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="80%" height="auto" /></h2>
+<h2 align="center"><img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="70%" height="auto" /></h2>
 
 ### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
 ### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
