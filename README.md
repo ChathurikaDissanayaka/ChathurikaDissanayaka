@@ -1,16 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (💲🅰©♓❕)</h1>
-<h3 align="center">I'm a Computer Engineering Undergraduate from Sri Lanka.</h3>
+<h3 align="center">I'm a Computer Engineering Undergraduate from Sri Lanka. I’m interested in web and mobile app development 📱💻👩‍💻</h3>
 
-###  I’m interested in web and mobile app development 📱💻👩‍💻
+### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
+### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
 
-##  📫 How to reach me:
+## Connect with me:
 ### <img src="/img/gmail.png" width=15px height=15px> sachichathudissanayaka@gmail.com 
 ### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
 ### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/Iam_S4ch1)
-### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
-### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
+
 
 
 <!--
