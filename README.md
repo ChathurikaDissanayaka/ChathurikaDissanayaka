@@ -4,13 +4,12 @@
 
 <h2 align="center"><img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="65%" height="auto" /></h2>
 
-### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
-### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
-
 ## Connect with me:
 ### <img src="/img/gmail.png" width=15px height=15px> sachichathudissanayaka@gmail.com 
 ### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
 ### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/Iam_S4ch1)
+### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
+### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
 
 
 
