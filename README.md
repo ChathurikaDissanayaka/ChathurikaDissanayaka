@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Engineering Undergraduate from Sri Lanka.</h3>
 <h3 align="center">And I’m interested in web and mobile app development 📱💻👩‍💻</h3>
 
-<h2 align="center"><img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="65%" height="auto" /></h2>
+<h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## Connect with me:
 ### <img src="/img/gmail.png" width=15px height=15px> sachichathudissanayaka@gmail.com 
