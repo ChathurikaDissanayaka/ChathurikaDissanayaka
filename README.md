@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (Sachi)</h1>
 <h3 align="center">I'm a Computer Engineering Undergraduate from Sri Lanka.</h3>
-<h3 align="center">And I’m interested in web and mobile app development 📱💻👩‍💻</h3>
+<h3 align="center">And I'm currently doing 100 Days of Code challenge to learn JavaScript & frontend development. 📱💻👩‍💻</h3>
 
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
