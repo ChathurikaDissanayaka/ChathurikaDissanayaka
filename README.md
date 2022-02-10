@@ -6,7 +6,7 @@
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
-<p>I'm Sachini Dissanayaka from Sri Lanka. I'm a final year Computer Engineering Undergraduate at faculty of Engineering, University of Peradeniya. Currently, I work at PickMe as a Software Engineer Intern while learning Back End Development. </p>
+<p>I'm Sachini Dissanayaka from Sri Lanka. I'm a final year **Computer Engineering Undergraduate** at faculty of Engineering, University of Peradeniya. Currently, I work at **PickMe** as a **Software Engineer Intern** while learning Back End Development. </p>
 
 ## Connect with me:
 ### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
