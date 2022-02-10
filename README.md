@@ -8,7 +8,6 @@
 ## About me:
 I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineering Undergraduate** at faculty of Engineering, University of Peradeniya. Currently, I work at **PickMe  (Digital Mobility Solutions Lanka (PVT) Ltd)** as a **Software Engineer Intern** while learning Back End Development. 
 
-## My GitHub Stats:
 <img 
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
 />
