@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1>
+<h1 align="center" style="font-family:courier; text-align:left;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1>
 <!-- <p align="center">I'm a final year Computer Engineering Undergraduate from Sri Lanka and I'm currently learning JavaScript & frontend development. 📱💻👩‍💻</p> -->
 
 
