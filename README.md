@@ -18,8 +18,12 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
 />
 
 ## Connect with me:
-### <img src="/img/linkedin.png" width=20px height=20px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
-### <img src="/img/twitter.png" width=20px height=20px> [Twitter](https://twitter.com/Iam_S4ch1)
+<a src="https://www.linkedin.com/in/sachini-dissanayaka-373402197/"><img src="/img/linkedin.png" width=20px height=20px></a>
+<a src="https://twitter.com/Iam_S4ch1"><img src="/img/twitter.png" width=20px height=20px></a>
+
+
+<!-- ### <img src="/img/linkedin.png" width=20px height=20px> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
+### <img src="/img/twitter.png" width=20px height=20px> [Twitter](https://twitter.com/Iam_S4ch1) -->
 <!-- ### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu) -->
 <!-- ### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1) -->
 
