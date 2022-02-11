@@ -23,7 +23,7 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
 ### <img src="/img/HackerRank.png" width=20px height=20px> [HackerRank](https://www.hackerrank.com/SachiChathu)
 ### <img src="/img/codepen.png" width=20px height=20px> [CodePen](https://codepen.io/S4ch1)
 
-<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Ruslan Babkin - Flaticon</a>
+
 
 <!--
 **ChathurikaDissanayaka/ChathurikaDissanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
