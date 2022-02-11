@@ -13,6 +13,7 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
 />
 
+## Languages and Tools:
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight&layout=compact" 
 />
