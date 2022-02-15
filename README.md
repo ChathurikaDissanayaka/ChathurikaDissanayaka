@@ -2,7 +2,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1> -->
 <!-- <p align="center">I'm a final year Computer Engineering Undergraduate from Sri Lanka and I'm currently learning JavaScript & frontend development. 📱💻👩‍💻</p> -->
 
-
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
@@ -12,6 +11,8 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
 <img 
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
 />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Tools:
 <img 
