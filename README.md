@@ -12,12 +12,15 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
 />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Languages and Tools:
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight&layout=compact" 
 />
+
+## A Random Meme:
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/sachini-dissanayaka-373402197/"><img src="/img/in.png" width=48px height=48px></a>
