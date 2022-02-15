@@ -2,6 +2,10 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1> -->
 <!-- <p align="center">I'm a final year Computer Engineering Undergraduate from Sri Lanka and I'm currently learning JavaScript & frontend development. 📱💻👩‍💻</p> -->
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=25&duration=8000"/></a>
+</p>  
+
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
