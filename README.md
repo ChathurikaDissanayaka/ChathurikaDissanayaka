@@ -8,17 +8,17 @@
 
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
-## About me:
+## 🟦 About me:
 I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineering Undergraduate** at faculty of Engineering, University of Peradeniya. Currently, I work at **PickMe  (Digital Mobility Solutions Lanka (PVT) Ltd)** as a **Software Engineer Intern** while learning Back End Development. 
 
-## My GitHub Stats:
+## 🟦 My GitHub Stats:
 <img 
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
 />
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## Languages and Tools:
+## 🟦 Languages and Tools:
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight&layout=compact" 
 />
@@ -26,10 +26,10 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
 <!-- ## A Random Meme: -->
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
 
-## Developer Quotes:
+## 🟦 Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## Connect with me:
+## 🟦 Connect with me:
 <a href="https://www.linkedin.com/in/sachini-dissanayaka-373402197/"><img src="/img/in.png" width=48px height=48px></a>
 <a href="https://twitter.com/Iam_S4ch1"><img src="/img/tw.png" width=48px height=48px></a> 
 <a href="https://www.hackerrank.com/SachiChathu"><img src="/img/hr.png" width=50px height=50px></a> 
