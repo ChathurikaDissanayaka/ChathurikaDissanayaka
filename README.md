@@ -3,7 +3,7 @@
 <!-- <p align="center">I'm a final year Computer Engineering Undergraduate from Sri Lanka and I'm currently learning JavaScript & frontend development. 📱💻👩‍💻</p> -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=29&duration=8000"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
 
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
