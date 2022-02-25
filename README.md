@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1> -->
 <!-- <p align="center">I'm a final year Computer Engineering Undergraduate from Sri Lanka and I'm currently learning JavaScript & frontend development. 📱💻👩‍💻</p> -->
 
