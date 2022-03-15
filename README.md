@@ -24,7 +24,7 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineer
 />
 
 <!-- ## A Random Meme: -->
-<!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ## Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
