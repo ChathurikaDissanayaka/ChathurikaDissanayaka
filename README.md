@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
 
-<h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
+<!-- <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2> -->
 
 ## About me:
 I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineering Undergraduate** at faculty of Engineering, University of Peradeniya. Currently, I work at **PickMe  (Digital Mobility Solutions Lanka (PVT) Ltd)** as a **Software Engineer Intern** while learning Back End Development. 
