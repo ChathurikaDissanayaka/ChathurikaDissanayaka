@@ -9,7 +9,7 @@
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
-I'm **Sachini Dissanayaka** from Sri Lanka. I'm a final year **Computer Engineering Undergraduate** at **Faculty of Engineering, University of Peradeniya**. Currently, I work at **PickMe  (Digital Mobility Solutions Lanka (PVT) Ltd)** as a **Associate Software Engineer - Part Time** while learning Back End Development. 
+I'm **Sachini Dissanayaka** from Sri Lanka. I graduated from **Faculty of Engineering, University of Peradeniya** as a **Computer Engineer**. Currently, I work at **PickMe  (Digital Mobility Solutions Lanka (PVT) Ltd)** as a **Software Engineer** while learning **Data Science**, **UI/UX design**, and **Front End Development**. 
 
 ## My GitHub Stats:
 <img 
