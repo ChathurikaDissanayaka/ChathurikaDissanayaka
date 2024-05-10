@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
+<!--<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1> -->
 
 <p align="center">
@@ -25,8 +25,8 @@ I'm **Sachini Dissanayaka** from Sri Lanka. I graduated from **Faculty of Engine
 <!-- ## A Random Meme: -->
 <!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
 
-<!--## Developer Quotes:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)-->
+## Developer Quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/sachini-dissanayaka-373402197/"><img src="/img/in.png" width=48px height=48px></a>
