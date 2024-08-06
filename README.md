@@ -5,10 +5,10 @@
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
-- 😊 I'm **Sachini Dissanayaka** from Sri Lanka. I graduated from **Faculty of Engineering, University of Peradeniya** as a **Computer Engineer**. 
-- 👷‍♀️ I have 2 years of experience as a **software engineer** specializing in backend development, with expertise in **Golang, PHP, Kafka, MySQL, REST APIs**, and **microservices**. 
-- 💪 Proficient in **Agile methodologies** and experienced as a **Scrum Master** for 2 releases, enhancing team collaboration and project execution.  
-- 🌱 Currently expanding skills through hands-on projects in **front-end development, UI/UX design, data science**, and **AI technologies**, with a focus on **HTML, CSS, JavaScript, React, Java, Python**, and **AI-related technologies**, including the **OpenAI API**.
+<p> 😊 I'm **Sachini Dissanayaka** from Sri Lanka. I graduated from **Faculty of Engineering, University of Peradeniya** as a **Computer Engineer**. </p>
+<p> 👷‍♀️ I have 2 years of experience as a **software engineer** specializing in backend development, with expertise in **Golang, PHP, Kafka, MySQL, REST APIs**, and **microservices**. </p>
+<p> 💪 Proficient in **Agile methodologies** and experienced as a **Scrum Master** for 2 releases, enhancing team collaboration and project execution.  </p>
+<p> 🌱 Currently expanding skills through hands-on projects in **front-end development, UI/UX design, data science**, and **AI technologies**, with a focus on **HTML, CSS, JavaScript, React, Java, Python**, and **AI-related technologies**, including the **OpenAI API**. </p>
 
 ## My GitHub Stats:
 <img 
