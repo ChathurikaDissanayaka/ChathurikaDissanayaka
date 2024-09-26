@@ -5,9 +5,9 @@
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
-<p>😊 I'm Sachini Dissanayaka from Sri Lanka. Software Engineer with over 2 years of experience specializing in backend development, with expertise in Golang, PHP, Kafka, MySQL, and REST APIs. Proficient in frontend technologies such as React, HTML, CSS, and Bootstrap, contributing to full-stack web applications. Proven leadership as a Scrum Master, consistently delivering key projects on time within Agile environments. Adept at solving complex software challenges, reducing technical debt, and optimizing system performance. Actively expanding knowledge in data science, AI, and cloud architectures. Seeking to contribute to innovative projects in a dynamic software engineering role. </p>
+<p>Software Engineer with over 2 years of experience specializing in backend development, with expertise in Golang, PHP, Kafka, MySQL, and REST APIs. Proficient in frontend technologies such as React, HTML, CSS, and Bootstrap, contributing to full-stack web applications. Proven leadership as a Scrum Master, consistently delivering key projects on time within Agile environments. Adept at solving complex software challenges, reducing technical debt, and optimizing system performance. Actively expanding knowledge in data science, AI, and cloud architectures. Seeking to contribute to innovative projects in a dynamic software engineering role. </p>
   
- <!-- I graduated from Faculty of Engineering, University of Peradeniya as a Computer Engineer.</p>  
+ <!-- I'm Sachini Dissanayaka from Sri Lanka. I graduated from Faculty of Engineering, University of Peradeniya as a Computer Engineer.</p>  
 <p>👷‍♀️ I have 2 years of experience as a software engineer specializing in backend development, with expertise in Golang, PHP, Kafka, MySQL, REST APIs, and microservices.</p>  
 <p>💪 Proficient in Agile methodologies and experienced as a Scrum Master for 2 releases, enhancing team collaboration and project execution.</p>   
 <p>🌱 Currently expanding skills through hands-on projects in front-end development, UI/UX design, data science, and AI technologies, with a focus on HTML, CSS, JavaScript, React, Java, Python, and AI-related technologies, including the OpenAI API.</p>  -->
