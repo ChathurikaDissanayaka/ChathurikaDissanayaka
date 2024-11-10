@@ -5,7 +5,7 @@
 <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>
 
 ## About me:
-<p>Software Engineer with over 2 years of experience specializing in backend development, with expertise in Golang, PHP, Kafka, MySQL, and REST APIs. Proficient in frontend technologies such as React, HTML, CSS, and Bootstrap, contributing to full-stack web applications. Proven leadership as a Scrum Master, consistently delivering key projects on time within Agile environments. Actively expanding knowledge in data science, AI, and cloud architectures. </p>
+<p>I'm a software engineer specializing in the MERN stack, passionate about building dynamic web applications and solving technical challenges. With a strong interest in AI, I’m excited about its potential to transform industries and optimize solutions. Always eager to learn and collaborate, I seek opportunities to connect with like-minded professionals and contribute to innovative projects. </p>
   
  <!-- I'm Sachini Dissanayaka from Sri Lanka. I graduated from Faculty of Engineering, University of Peradeniya as a Computer Engineer.</p>  
 <p>👷‍♀️ I have 2 years of experience as a software engineer specializing in backend development, with expertise in Golang, PHP, Kafka, MySQL, REST APIs, and microservices.</p>  
