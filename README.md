@@ -33,8 +33,8 @@
 ## Connect with me:
 <a href="https://www.linkedin.com/in/sachini-dissanayaka-373402197/"><img src="/img/in.png" width=48px height=48px></a>
 <a href="https://twitter.com/Iam_S4ch1"><img src="/img/tw.png" width=48px height=48px></a> 
-<!--<a href="https://www.hackerrank.com/SachiChathu"><img src="/img/hr.png" width=50px height=50px></a>  -->
 <a href="https://codepen.io/S4ch1"><img src="/img/cp.png" width=50px height=50px></a>
+<!--<a href="https://www.hackerrank.com/SachiChathu"><img src="/img/hr.png" width=50px height=50px></a>  -->
 
 <!--<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachini Dissanayaka (S4ch1)</h1> -->
