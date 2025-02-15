@@ -13,7 +13,7 @@
 <p>🌱 Currently expanding skills through hands-on projects in front-end development, UI/UX design, data science, and AI technologies, with a focus on HTML, CSS, JavaScript, React, Java, Python, and AI-related technologies, including the OpenAI API.</p>  -->
 
 ## My GitHub Stats:
-<img 
+<img
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
 />
 
