@@ -27,8 +27,8 @@
 <!--## A Random Meme: 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
 
-<!--## Developer Quotes:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes) -->
+## Developer Quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes) 
 
 <!--
 ## Connect with me:
