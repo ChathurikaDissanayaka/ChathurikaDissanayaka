@@ -6,11 +6,6 @@
 
 ## About me:
 <p>I'm a software engineer specializing in the MERN stack, passionate about building dynamic web applications and solving technical challenges. With a strong interest in AI, I’m excited about its potential to transform industries and optimize solutions. Always eager to learn and collaborate, I seek opportunities to connect with like-minded professionals and contribute to innovative projects. </p>
-  
- <!-- I'm Sachini Dissanayaka from Sri Lanka. I graduated from Faculty of Engineering, University of Peradeniya as a Computer Engineer.</p>  
-<p>👷‍♀️ I have 2 years of experience as a software engineer specializing in backend development, with expertise in Golang, PHP, Kafka, MySQL, REST APIs, and microservices.</p>  
-<p>💪 Proficient in Agile methodologies and experienced as a Scrum Master for 2 releases, enhancing team collaboration and project execution.</p>   
-<p>🌱 Currently expanding skills through hands-on projects in front-end development, UI/UX design, data science, and AI technologies, with a focus on HTML, CSS, JavaScript, React, Java, Python, and AI-related technologies, including the OpenAI API.</p>  -->
 
 ## My GitHub Stats:
 <img
@@ -27,8 +22,8 @@
 <!--## A Random Meme: 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
 
-## Developer Quotes:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes) 
+<!-- ## Developer Quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)  -->
 
 <!--
 ## Connect with me:
