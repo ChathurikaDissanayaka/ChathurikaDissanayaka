@@ -8,11 +8,11 @@
 <p>I'm a software engineer specializing in the MERN stack, passionate about building dynamic web applications and solving technical challenges. With a strong interest in AI, I’m excited about its potential to transform industries and optimize solutions. Always eager to learn and collaborate, I seek opportunities to connect with like-minded professionals and contribute to innovative projects. </p>
 
 ## My GitHub Stats:
-<!-- <img
+<img
    src="https://github-readme-stats.vercel.app/api?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight" 
-/>  -->
+/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) 
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Languages and Tools:
 <img 
