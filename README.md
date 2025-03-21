@@ -14,7 +14,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ChathurikaDissanayaka&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) 
 
-## Languages and Tools:
+<!--## Languages and Tools:-->
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight&layout=compact&langs_count=10" 
 />
