@@ -19,8 +19,8 @@
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChathurikaDissanayaka&show_icons=true&theme=tokyonight&layout=compact&langs_count=10" 
 />
 
-<!--## A Random Meme: 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> -->
+## A Random Meme: 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> 
 
 <!-- ## Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)  
