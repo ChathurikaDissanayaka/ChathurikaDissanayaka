@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Sachini+Dissanayaka!&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
 
-<!-- <h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2>  -->
+<h2 align="center"><img alt="GIF" src="/img/code.gif?raw=true" width="65%" height="auto" /></h2> 
 
 ## About me:
 <p>I'm a software engineer specializing in the MERN stack, passionate about building dynamic web applications and solving technical challenges. With a strong interest in AI, I’m excited about its potential to transform industries and optimize solutions. Always eager to learn and collaborate, I seek opportunities to connect with like-minded professionals and contribute to innovative projects. </p>
